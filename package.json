@@ -1,0 +1,21 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "Sistema de informação da turma 5info 2022 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sistema de informaçao do 5 info"
+  },
+  "author": "Diogo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "multer": "^1.4.4-lts.1"
+  }
+}
